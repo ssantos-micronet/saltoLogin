@@ -1,0 +1,48 @@
+D:\micronet\salto login\salto\bin\Release\net8.0\salto.exe
+D:\micronet\salto login\salto\bin\Release\net8.0\salto.deps.json
+D:\micronet\salto login\salto\bin\Release\net8.0\salto.runtimeconfig.json
+D:\micronet\salto login\salto\bin\Release\net8.0\salto.dll
+D:\micronet\salto login\salto\bin\Release\net8.0\salto.pdb
+D:\micronet\salto login\salto\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\micronet\salto login\salto\bin\Release\net8.0\System.Data.SqlClient.dll
+D:\micronet\salto login\salto\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+D:\micronet\salto login\salto\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+D:\micronet\salto login\salto\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+D:\micronet\salto login\salto\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\micronet\salto login\salto\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.csproj.AssemblyReference.cache
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.GeneratedMSBuildEditorConfig.editorconfig
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.AssemblyInfoInputs.cache
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.AssemblyInfo.cs
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.csproj.CoreCompileInputs.cache
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.sourcelink.json
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.csproj.Up2Date
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.dll
+D:\micronet\salto login\salto\obj\Release\net8.0\refint\salto.dll
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.pdb
+D:\micronet\salto login\salto\obj\Release\net8.0\salto.genruntimeconfig.cache
+D:\micronet\salto login\salto\obj\Release\net8.0\ref\salto.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\salto.exe
+D:\micronet\SaltoLogin\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\System.Data.SqlClient.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.csproj.AssemblyReference.cache
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.GeneratedMSBuildEditorConfig.editorconfig
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.AssemblyInfoInputs.cache
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.AssemblyInfo.cs
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.csproj.CoreCompileInputs.cache
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.sourcelink.json
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.csproj.Up2Date
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.dll
+D:\micronet\SaltoLogin\obj\Release\net8.0\refint\salto.dll
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.pdb
+D:\micronet\SaltoLogin\bin\Release\net8.0\salto.deps.json
+D:\micronet\SaltoLogin\bin\Release\net8.0\salto.runtimeconfig.json
+D:\micronet\SaltoLogin\bin\Release\net8.0\salto.dll
+D:\micronet\SaltoLogin\bin\Release\net8.0\salto.pdb
+D:\micronet\SaltoLogin\obj\Release\net8.0\salto.genruntimeconfig.cache
+D:\micronet\SaltoLogin\obj\Release\net8.0\ref\salto.dll
