@@ -41,7 +41,7 @@ private static async Task<string> GetClientIdFromDatabase(string connectionStrin
             // Consulta para buscar o clientId da tabela xsetup
             string query = @"
                 SELECT xvalue 
-                FROM [dbo].[xsetup] 
+                FROM [proteluser].[xsetup] 
                 WHERE xsection = 'SysConector' 
                 AND xkey = 'clientId'";
 
